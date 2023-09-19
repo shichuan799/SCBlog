@@ -8,9 +8,9 @@
 
 ## 项目访问地址
 
-前台链接：www.scbmc.top
+前台链接：http://www.scbmc.top
 
-后台链接：www.admin.scbmc.top
+后台链接：http://admin.scbmc.top
 
 后台测试账号：test@qq.com，密码：123456，可登录后台查看
 
@@ -318,5 +318,4 @@ export const getHotTalk=(id)=>{
 
 ## 项目部署
 
-详情见博客首页基于 jenkins 部署教程。
-
+详情见博客首页基于 jenkins 部署教程 http://www.scbmc.top/articles/38
