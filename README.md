@@ -8,9 +8,9 @@
 
 ## 项目访问地址
 
-前台链接：http://www.scbmc.top
+前台链接：https://www.scbmc.top
 
-后台链接：http://admin.scbmc.top
+后台链接：https://admin.scbmc.top（暂未上线）
 
 后台测试账号：test@qq.com，密码：123456，可登录后台查看
 
