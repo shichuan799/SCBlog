@@ -318,4 +318,4 @@ export const getHotTalk=(id)=>{
 
 ## 项目部署
 
-详情见博客首页基于 jenkins 部署教程 http://www.scbmc.top/articles/38
+详情见博客首页基于 jenkins 部署教程 https://www.scbmc.top/articles/38
