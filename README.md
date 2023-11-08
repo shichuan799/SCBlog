@@ -2,7 +2,7 @@
 
 ## 写在前面
 
-​		原项目地址：https://github.com/William9527wn/Blog-1
+​		原项目地址：https://github.com/min-lj/Blog
 
 ​		我只使用了项目的前端 Vue 应用，后端全手写，重构了后端功能的实现逻辑，重构了数据库表的设计逻辑，登录功能采用的是 SpringSecurity + JWT 令牌的方式实现；原项目的前端存在一些 Bug，经过摸索后已经解决；博客前后台功能基本实现。
 
